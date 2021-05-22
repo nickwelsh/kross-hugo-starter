@@ -34,7 +34,7 @@ sections:
   match: "*"
 - type: document
   path: config.toml
-  label: Configuration
+  label: Configurationn
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
